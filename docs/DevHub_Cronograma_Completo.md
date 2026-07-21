@@ -27,9 +27,9 @@ Manhãs = Back-end | Tardes = UX/UI | Fim de semana = Front-end
 ## Terça, 21/07
 
 **Manhã — Back-end**
-- [ ] DEVHUB-10 — `AuthController`: register, login, logout — RF01, RF02, RF14
-- [ ] DEVHUB-11 — Request classes de validação — RNF06
-- [ ] DEVHUB-12 — Testar endpoints de auth (Postman/Insomnia)
+- [X] DEVHUB-10 — `AuthController`: register, login, logout — RF01, RF02, RF14
+- [X] DEVHUB-11 — Request classes de validação — RNF06
+- [X] DEVHUB-12 — Testar endpoints de auth (Postman/Insomnia)
 
 **Tarde — UX/UI**
 - [ ] DEVHUB-58 — Wireframe baixa fidelidade: Lista de Projetos (11.7)
