@@ -20,9 +20,9 @@ Manhãs = Back-end | Tardes = UX/UI | Fim de semana = Front-end
 - [X] DEVHUB-09 — Instalar e configurar Sanctum (RNF05)
 
 **Noite — UX/UI**
-- [ ] DEVHUB-55 — Wireframe baixa fidelidade: Login (11.2)
-- [ ] DEVHUB-56 — Wireframe baixa fidelidade: Cadastro (11.3)
-- [ ] DEVHUB-57 — Wireframe baixa fidelidade: Dashboard (11.4)
+- [X] DEVHUB-55 — Wireframe baixa fidelidade: Login (11.2)
+- [X] DEVHUB-56 — Wireframe baixa fidelidade: Cadastro (11.3)
+- [X] DEVHUB-57 — Wireframe baixa fidelidade: Dashboard (11.4)
 
 ## Terça, 21/07
 
