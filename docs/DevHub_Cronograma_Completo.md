@@ -32,20 +32,20 @@ Manhãs = Back-end | Tardes = UX/UI | Fim de semana = Front-end
 - [X] DEVHUB-12 — Testar endpoints de auth (Postman/Insomnia)
 
 **Tarde — UX/UI**
-- [ ] DEVHUB-58 — Wireframe baixa fidelidade: Lista de Projetos (11.7)
-- [ ] DEVHUB-59 — Wireframe baixa fidelidade: Cadastro de Projetos (11.6)
-- [ ] DEVHUB-60 — Wireframe baixa fidelidade: Edição de Projetos
-- [ ] DEVHUB-61 — Wireframe baixa fidelidade: Perfil do Usuário (11.5)
+- [X] DEVHUB-58 — Wireframe baixa fidelidade: Lista de Projetos (11.7)
+- [X] DEVHUB-59 — Wireframe baixa fidelidade: Cadastro de Projetos (11.6)
+- [X] DEVHUB-60 — Wireframe baixa fidelidade: Edição de Projetos
+- [X] DEVHUB-61 — Wireframe baixa fidelidade: Perfil do Usuário (11.5)
 
 ## Quarta, 22/07
 
 **Manhã — Back-end**
-- [ ] DEVHUB-13 — `ProjetoController` CRUD completo — RF06, RF07, RF08
-- [ ] DEVHUB-14 — Middleware/Policy de propriedade — RN04
+- [X] DEVHUB-13 — `ProjetoController` CRUD completo — RF06, RF07, RF08
+- [X] DEVHUB-14 — Middleware/Policy de propriedade — RN04
 
 **Tarde — UX/UI**
-- [ ] DEVHUB-62 — Wireframe baixa fidelidade: Página Pública do Portfólio (11.8)
-- [ ] DEVHUB-63 — Wireframe baixa fidelidade: Landing Page (11.1)
+- [X] DEVHUB-62 — Wireframe baixa fidelidade: Página Pública do Portfólio (11.8)
+- [X] DEVHUB-63 — Wireframe baixa fidelidade: Landing Page (11.1)
 - ✅ **Marco:** as 8 telas obrigatórias têm wireframe de baixa fidelidade concluído
 
 ## Quinta, 23/07
