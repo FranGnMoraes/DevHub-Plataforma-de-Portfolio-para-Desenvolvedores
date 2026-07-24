@@ -33,17 +33,15 @@ Este repositório documenta o desenvolvimento simulado do produto do zero, cobri
 - [x] Relacionamentos Eloquent entre os models (`User`, `Projeto`, `Tecnologia`)
 - [x] Autenticação por token configurada (Laravel Sanctum)
 - [x] Documento de Requisitos (SRS) e Documento de Design do Sistema elaborados
+- [X] Controllers de autenticação (cadastro, login, logout)
+- [X] CRUD completo de projetos
+- [X] Regras de autorização (somente o dono edita/exclui seus projetos)
+- [X] Endpoints de dashboard, busca e filtros
+- [X] Wireframes de baixa fidelidade das telas principais
 
 ### 🔄 Em andamento / próximos passos
 
-**Back-end**
-- [ ] Controllers de autenticação (cadastro, login, logout)
-- [ ] CRUD completo de projetos
-- [ ] Regras de autorização (somente o dono edita/exclui seus projetos)
-- [ ] Endpoints de dashboard, busca e filtros
-
 **UX/UI**
-- [ ] Wireframes de baixa fidelidade das telas principais
 - [ ] Protótipo navegável de alta fidelidade
 - [ ] Validação de fluxos de usuário
 

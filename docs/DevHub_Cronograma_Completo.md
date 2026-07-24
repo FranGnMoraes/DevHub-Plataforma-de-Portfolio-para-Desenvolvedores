@@ -51,9 +51,9 @@ Manhãs = Back-end | Tardes = UX/UI | Fim de semana = Front-end
 ## Quinta, 23/07
 
 **Manhã — Back-end**
-- [ ] DEVHUB-15 — Endpoint de tecnologias + `attach`/`sync`
-- [ ] DEVHUB-16 — Validação de URLs via RegEx — RN05
-- [ ] DEVHUB-17 — Endpoint do Dashboard (contadores) — RF09
+- [X] DEVHUB-15 — Endpoint de tecnologias + `attach`/`sync`
+- [x] DEVHUB-16 — Validação de URLs via RegEx — RN05
+- [x] DEVHUB-17 — Endpoint do Dashboard (contadores) — RF09
 
 **Tarde — UX/UI**
 - [ ] DEVHUB-64 — Protótipo alta fidelidade: Login, Cadastro e Dashboard (aplicando Design System)
@@ -61,7 +61,7 @@ Manhãs = Back-end | Tardes = UX/UI | Fim de semana = Front-end
 ## Sexta, 24/07
 
 **Manhã — Back-end**
-- [ ] DEVHUB-18 — Endpoint de pesquisa e filtros — RF10, RF11
+- [X] DEVHUB-18 — Endpoint de pesquisa e filtros — RF10, RF11
 - ✅ **Marco:** backend cobre 100% dos endpoints do MVP (RF01–RF14)
 
 **Tarde — UX/UI**
