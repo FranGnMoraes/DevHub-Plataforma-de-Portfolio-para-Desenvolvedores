@@ -12,10 +12,21 @@ class ProjetoController extends Controller
     public function index(Request $request)
     {
         $projetos = $request->user()
-            ->projetos()
-            ->with('tecnologias')
-            ->latest()
-            ->get();
+        ->projetos()
+        ->with('tecnologias')
+        ->when($request->filled('busca'), function ($query) use ($request) {
+            $query->where('nome', 'like', '%' . $request->busca . '%');
+        })
+        ->when($request->filled('status'), function ($query) use ($request) {
+            $query->where('status', $request->status);
+        })
+        ->when($request->filled('tecnologia'), function ($query) use ($request) {
+            $query->whereHas('tecnologias', function ($q) use ($request) {
+                $q->where('tecnologias.id', $request->tecnologia);
+            });
+        })
+        ->latest()
+        ->get();
 
         return response()->json($projetos);
     }
