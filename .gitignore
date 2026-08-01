@@ -1,0 +1,31 @@
+# Laravel (backend)
+/backend/vendor
+/backend/node_modules
+/backend/public/hot
+/backend/public/storage
+/backend/storage/*.key
+/backend/.env
+/backend/.env.backup
+/backend/.env.production
+/backend/.phpunit.result.cache
+/backend/storage/logs/*.log
+/backend/storage/framework/cache/*
+/backend/storage/framework/sessions/*
+/backend/storage/framework/testing/*
+/backend/storage/framework/views/*
+/backend/bootstrap/cache/*.php
+
+# React / Vite / Node (frontend)
+/frontend/**/node_modules
+/frontend/**/dist
+/frontend/**/build
+/frontend/**/.react-router
+/frontend/**/.env
+/frontend/**/.env.local
+/frontend/**/.env.*.local
+
+# Geral
+.idea
+.vscode
+.DS_Store
+*.log
